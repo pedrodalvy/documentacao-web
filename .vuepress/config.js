@@ -15,6 +15,7 @@ module.exports = {
         sidebar: {
             '/web/': [
                 'configXAMPP',
+                'configLINUX',
                 'configWSL',
             ]
         }
