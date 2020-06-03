@@ -2,9 +2,11 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/images/logo.png' }]
     ],
-    title: 'Documentação Quality',
+    title: 'Documentação Web',
     description: 'Documentação para configuração do ambiente de trabalho web da Quality Sistemas',
     themeConfig: {
+        displayAllHeaders: true,
+        lastUpdated: 'Ultima Atualização',
         logo: '/images/logo.png',
         smoothScroll: true,
         nav: [

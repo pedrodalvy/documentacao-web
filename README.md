@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.png
 heroText: Documentação Web
-tagline: Documentação pra preparação do ambiente de desenvolvimento web
+tagline: Documentação para preparação do ambiente de desenvolvimento web
 actionText: Começar
 actionLink: /web/
 ---
