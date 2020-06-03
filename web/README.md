@@ -1,3 +1,3 @@
-## Guia para configuração do ambiente de desenvolvimento da Quality
+## Guia para configuração dos projetos web
 
-Configuração do computador para utilizar as duas versões do PHP e também dos módulos web para serem executados em ambiente local.
+Configuração dos projetos web para ambiente de desenvolvimento local.
