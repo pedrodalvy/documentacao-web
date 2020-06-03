@@ -18,8 +18,6 @@ Relação dos avisos de licitações previstas e em andamento da entidade.
 
 - **Endereço:** http://avisolicitacao.qualitysistemas.com.br/prefeitura_municipal_de_terenos
 
-
-
 ## Configuração
 
 1. Clonar o repositório `avisos-licitacao` do [Bitbucket](https://bitbucket.org/qualitysistemas/avisos-licitacao/src/master/) dentro da pasta raiz do seu diretório de projetos.
@@ -28,7 +26,7 @@ Relação dos avisos de licitações previstas e em andamento da entidade.
 
 3. Configurar no `.env` o IP dos bancos de dados
    
-   ``` 
+   ```
    # Banco do Intranet
    DB_QS_CONNECTION=mysql
    DB_QS_HOST=localhost
@@ -53,18 +51,12 @@ Relação dos avisos de licitações previstas e em andamento da entidade.
    DB_ADM_USERNAME=root
    DB_ADM_PASSWORD=root
    ```
-   
-   
-
-
 
 ## Utilização
 
 - Exemplo de acesso ao localhost: http://avisolicitacao.localhost/prefeitura_municipal_de_terenos
 
 - Não existe um usuário padrão para testes, é necessário criar um novo para logar no sistema.
-
-
 
 ## Alteração da versão
 
@@ -74,5 +66,3 @@ Relação dos avisos de licitações previstas e em andamento da entidade.
   'app_version' => '1.0.8.0',
   'db_version' => '5.0',
   ```
-
-
