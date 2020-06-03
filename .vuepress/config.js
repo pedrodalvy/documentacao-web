@@ -15,6 +15,7 @@ module.exports = {
         sidebar: {
             '/web/': [
                 'contratos_e_convenios',
+                'teste'
             ],
             '/infra/': [
                 'configXAMPP',

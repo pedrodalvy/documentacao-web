@@ -11,15 +11,16 @@ Informações sobre os contratos e aditivos realizados entre a entidade e outras
 - **ID do sistema no Intranet:** 61
 
 - **Sistema Desktop integrado:** Contabilidade
-
+  
+- **Endereço:** http://web.qualitysistemas.com.br/contratos_e_convenios/prefeitura_municipal_de_terenos
 
 
 ## Configuração
 
-1. Clonar o repositório `contratos_e_convenios` do [Bitbucket ](https://bitbucket.org/qualitysistemas/contratos_e_convenios/src/master/)dentro da pasta `portalcidadao `do seu diretório de projetos:
+1. Clonar o repositório `contratos_e_convenios` do [Bitbucket ](https://bitbucket.org/qualitysistemas/contratos_e_convenios/src/master/)dentro da pasta `portalcidadao` do seu diretório de projetos:
    
    ```bash
-   git clone https://pedrodalvy@bitbucket.org/qualitysistemas/contratos_e_convenios.git
+   git clone https://user@bitbucket.org/qualitysistemas/contratos_e_convenios.git
    ```
 
 2. Configurar o caminho do banco de dados do Admin Portal em `config/database_admin_arquivos.json`:
