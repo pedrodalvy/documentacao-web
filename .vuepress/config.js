@@ -14,8 +14,9 @@ module.exports = {
         ],
         sidebar: {
             '/web/': [
-                'contratos_e_convenios',
                 'avisos-licitacao',
+                'contratos_e_convenios',
+                'notafiscal',
             ],
             '/infra/': [
                 'configXAMPP',
