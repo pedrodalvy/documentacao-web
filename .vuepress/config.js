@@ -10,10 +10,13 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Web', link: '/web/' },
-            // { text: 'Infra', link: '/infra/' },
+            { text: 'Infra', link: '/infra/' },
         ],
         sidebar: {
             '/web/': [
+                'contratos_e_convenios',
+            ],
+            '/infra/': [
                 'configXAMPP',
                 'configLINUX',
                 'configWSL',
