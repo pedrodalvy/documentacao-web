@@ -2,18 +2,17 @@
 
 Informações sobre os contratos e aditivos realizados entre a entidade e outras partes.
 
-
-
 ## Informações
+
+- **PHP:** 5.6
 
 - **ID do sistema no SAC:**  39
 
 - **ID do sistema no Intranet:** 61
 
 - **Sistema Desktop integrado:** Contabilidade
-  
-- **Endereço:** http://web.qualitysistemas.com.br/contratos_e_convenios/prefeitura_municipal_de_terenos
 
+- **Endereço:** http://web.qualitysistemas.com.br/contratos_e_convenios/prefeitura_municipal_de_terenos
 
 ## Configuração
 
@@ -59,17 +58,11 @@ Informações sobre os contratos e aditivos realizados entre a entidade e outras
    ...
    ```
 
-
-
 ## Utilização
 
 Para acessar o módulo é necessário ter o portalcidadao configurado no apache.
 
-
-
 1. Link padrão para acesso: http://portal.localhost/contratos_e_convenios/municipio_de_camapua
-
-
 
 ## Alteração da versão
 
